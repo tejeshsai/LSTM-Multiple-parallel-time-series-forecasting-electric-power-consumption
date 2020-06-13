@@ -1,4 +1,4 @@
-# LSTM-Multi-parallel-time-series-forecasting-electric-power-consumption
+# LSTM-Multiple-parallel-time-series-forecasting-electric-power-consumption
 This repository includes code for multi-parallel-time-series for the eletric power consumption dataset.
 
 The dataset used in this repository : https://www.kaggle.com/uciml/electric-power-consumption-data-set
